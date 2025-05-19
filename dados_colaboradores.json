@@ -1,0 +1,29 @@
+{
+  "colaboradores": {
+    "tiagolealpalma@gmail.com": {
+      "token": "GbyUxus0",
+      "superior": "tiagolealpalma@outlook.com",
+      "falhas": 2
+    },
+    "maria.rafael@empresa.pt": {
+      "token": "mrfc456",
+      "superior": "tiagolealpalma@outlook.com",
+      "falhas": 1
+    },
+    "goncalo.nunes@empresa.pt": {
+      "token": "gn789xyz",
+      "superior": "tiagolealpalma@outlook.com",
+      "falhas": 2
+    },
+    "francisca.coelho@empresa.pt": {
+      "token": "fsc321",
+      "superior": "tiagolealpalma@outlook.com",
+      "falhas": 0
+    },
+    "bt.cesar.martins@gmail.com": {
+      "token": "ilovetiti",
+      "superior": "tiagolealpalma@outlook.com",
+      "falhas": 0
+    }
+  }
+}
